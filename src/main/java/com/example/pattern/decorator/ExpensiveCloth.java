@@ -1,4 +1,4 @@
-package com.example.decorator;
+package com.example.pattern.decorator;
 
 public class ExpensiveCloth extends PersonCloth {
     public ExpensiveCloth(Person mPerson) {

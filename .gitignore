@@ -1,10 +1,25 @@
-bin
-gen
+/target/
+.mvn
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
 .settings
-.metadata
-*.iml
-.gradle
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
 .idea
-.DS_Store
-build
-out
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/

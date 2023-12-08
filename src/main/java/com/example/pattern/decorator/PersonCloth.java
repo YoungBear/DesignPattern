@@ -1,4 +1,4 @@
-package com.example.decorator;
+package com.example.pattern.decorator;
 
 public abstract class PersonCloth extends Person {
     // 保持一个Person类的引用

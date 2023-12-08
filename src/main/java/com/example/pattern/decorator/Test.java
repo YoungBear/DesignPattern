@@ -1,4 +1,4 @@
-package com.example.decorator;
+package com.example.pattern.decorator;
 
 public class Test {
 

@@ -1,4 +1,4 @@
-package com.example.iterator;
+package com.example.pattern.iterator;
 
 /**
  * Created by bearyang on 2016/12/30.

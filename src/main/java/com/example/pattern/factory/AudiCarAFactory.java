@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.example.factory;
+package com.example.pattern.factory;
 
 /**
  * @author bearyang
